@@ -3,7 +3,7 @@ import zxing
 import requests
 
 # barcodelookup api key - readme file has link and details
-API_KEY = 'API_key_here'  # Replace with your actual API key
+API_KEY = 'API_KEY'  # Replace with your actual API key
 
 
 def decode_barcode(image_path):
